@@ -2,8 +2,6 @@
 
 #include <map>
 #include <vector>
-#include <thread>
-#include <mutex>
 #include <stdio.h>
 #include <iostream>
 #include <glm/glm.hpp>
